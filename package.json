@@ -1,0 +1,22 @@
+{
+  "name": "fcc-node-headers",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Node Headers Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jereaa/fcc-node-headers.git"
+  },
+  "author": "Jere Aagaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jereaa/fcc-node-headers/issues"
+  },
+  "homepage": "https://github.com/jereaa/fcc-node-headers#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
